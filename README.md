@@ -8,6 +8,7 @@
 
 <h3>Things I code with</h3>
 <p>
+  
   <!--
 bun #000000
 pfsense #212121
@@ -17,9 +18,8 @@ homeassistant #18BCF2
 ubiquiti #0559C9
 truenas #0095D5
 syncthing #0891D1
-
-  
   -->
+  
   <img alt="C-Sharp" src="https://img.shields.io/badge/-C&#9839;.NET-512BD4?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
