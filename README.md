@@ -1,9 +1,10 @@
 # Hi there, and Welcome! 👋
 
-## 🔭 I’m currently working on ...<br>
-### [Alpaca WebUI](https://github.com/mmo80/alpaca-webui) <br>
-![GitHub top language](https://img.shields.io/github/languages/top/mmo80/alpaca-webui) ![Docker Pulls](https://img.shields.io/docker/pulls/forloopse/alpaca-webui)
+Currently working on a small SaaS project... so stay tuned for that! It's going to be epic! ;) 
 
+### 🔭 My Projects<br>
+#### [Alpaca WebUI](https://github.com/mmo80/alpaca-webui) <br>
+![GitHub top language](https://img.shields.io/github/languages/top/mmo80/alpaca-webui) ![Docker Pulls](https://img.shields.io/docker/pulls/forloopse/alpaca-webui) ![Stars](https://img.shields.io/github/stars/mmo80/alpaca-webui)
 
 
 <h3>Things I code with</h3>
