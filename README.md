@@ -1,6 +1,6 @@
 # Hi there, and Welcome! 👋
 
-Currently working on a small SaaS project... so stay tuned for that! It's going to be epic! ;) 
+Currently working on a small SaaS project... so stay tuned for that! It's going to be epic! :wink:
 
 ### 🔭 My Projects<br>
 #### [Alpaca WebUI](https://github.com/mmo80/alpaca-webui) <br>
